@@ -11,7 +11,11 @@ MySQL:            Mysql 5.7.16
 
 PHP:              PHP 5.6.28
 
+
 A database schema SQL file named 'diastemas.schema.sql' is included in the source.
 
 Refer to INSTALL.md on how to install the software 
+
+<h3>License</h3>
+<hr>
 
