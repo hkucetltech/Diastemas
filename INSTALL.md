@@ -1,9 +1,10 @@
 Diastemas was tested to worki in the LAMP environment below:
-Linux:                CentOS 6.7
-Apache:               Apache 2.4.23
-MySQL:                Mysql 5.7.16
-PHP:                  PHP 5.6.28
-
+<ul>
+	<li>Linux:                CentOS 6.7</li>
+	<li>Apache:               Apache 2.4.23</li>
+	<li>MySQL:                Mysql 5.7.16</li>
+	<li>PHP:                  PHP 5.6.28</li>
+</ul>
 It should work in most LAMP environment.
 
 
