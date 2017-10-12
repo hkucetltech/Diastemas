@@ -8,7 +8,7 @@ Diastemas was tested to worki in the LAMP environment below:
 It should work in most LAMP environment.
 
 
-Quick Installation 
+<h2>Quick Installation </h2>
 
 1.  Download Diastemas source zip file.
 
