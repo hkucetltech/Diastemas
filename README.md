@@ -3,16 +3,15 @@ Diastemas project is a web platform that enables participants to create blogs an
 
 Diastemas should be working on most LAMP environment.  It is tested to work in the environment below:
 
-Linux:            CentOS 6.7
-
-Apache:           Apache 2.4.23
-
-MySQL:            Mysql 5.7.16
-
-PHP:              PHP 5.6.28
+<ul>
+  <li>Linux:            CentOS 6.7</li>
+  <li>Apache:           Apache 2.4.23</li>
+  <li>MySQL:            Mysql 5.7.16</li>
+  <li>PHP:              PHP 5.6.28</li>
+</ul>
 
 Refer to INSTALL.md on how to install the software 
 
-#License
-Diastemas is distributed under the Terms and Conditions of the GNU General Public License in version 3 (GPLv3). A copy of these terms and conditions can be found in the file License.txt
+<h3>License</h3>
+Diastemas is distributed under the Terms and Conditions of the GNU General Public License in version 3 (GPLv3). A copy of these terms and conditions can be found in the file License
 
