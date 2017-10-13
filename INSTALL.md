@@ -1,11 +1,11 @@
-Diastemas was tested to worki in the LAMP environment below:
+Diastemas was tested to work in the LAMP environment below:
 <ul>
 	<li>Linux:                CentOS 6.7</li>
 	<li>Apache:               Apache 2.4.23</li>
 	<li>MySQL:                Mysql 5.7.16</li>
 	<li>PHP:                  PHP 5.6.28</li>
 </ul>
-It should work in most LAMP environment.
+It should work in most LAMP environments.
 
 
 <h2>Quick Installation </h2>
