@@ -1,5 +1,5 @@
 # Diastemas
-Diastemas project is a web platform that enables participants to create blogs and build communities, with similar features as in many social media websites like Facebook.  The web platform allows participants to collaborate through their participations in peer reviews of their works and group discussions. 
+Diastemas is a web platform written in PHP and developed in collaboration between The University of Hong Kong (HKU) and The University of British Columbia (UBC). As a student learning platform, Diastemas supports active collaboration through participation in peer review of shared work and group discussions. The web platform enables participants to create blogs, build communities and provides features found in common social media websites.
 
 Diastemas should be working on most LAMP environment.  It is tested to work in the environment below:
 
