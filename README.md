@@ -1,7 +1,7 @@
 # Diastemas
 Diastemas is a web platform written in PHP and developed in collaboration between The University of Hong Kong (HKU) and The University of British Columbia (UBC). As a student learning platform, Diastemas supports active collaboration through participation in peer review of shared work and group discussions. The web platform enables participants to create blogs, build communities and provides features found in common social media websites.
 
-Diastemas should be working on most LAMP environment.  It is tested to work in the environment below:
+Diastemas should be working on most LAMP environments.  It is tested to work in the environment below:
 
 <ul>
   <li>Linux:            CentOS 6.7</li>
